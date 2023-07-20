@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029170862983",
+    "project_id": "techspark-bc0e3",
+    "storage_bucket": "techspark-bc0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029170862983:android:5d7eb7f96d8186a4ee5122",
+        "android_client_info": {
+          "package_name": "com.shivam_gupta2604.Demo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029170862983-dnfu3rok15pof4fd375jockn90egeh5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam_gupta2604.Demo3",
+            "certificate_hash": "c68e38c075b2ee3df154380a69c697d082654dfe"
+          }
+        },
+        {
+          "client_id": "1029170862983-ititmfncdop1hggs3eqpsp9t2uhlbke3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTrSqDzaYU1qS4HlTCbvtLArYimkX9vH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029170862983-glf84vs775go3v3gnvrpd1639njngf6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

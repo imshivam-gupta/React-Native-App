@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Techspark",
+    "slug": "Techspark",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logosvg.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logosvg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logosvg.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.shivam_gupta2604.Demo3"
+    },
+    "web": {
+      "favicon": "./assets/logosvg.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d4db2f0c-d974-463b-adec-ec6ac39ccf08"
+      }
+    }
+  }
+}
