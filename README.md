@@ -25,8 +25,8 @@ Techspark is a full-fledged ecommerce platform that enables users to browse, pur
 To setup Techspark locally - 
 - Clone this repository to your local machine.
 - Install the necessary dependencies using npm install.
-- Run the development server with npm run dev.
-- Access the application by visiting http://localhost:3000 in your web browser.
+- Run the development server in Android Studio by npm start.
+- Access the application in virtual device or physical device.
 
 ## Contact
 For any inquiries or feedback, please reach out to me on [Linkedin](https://www.linkedin.com/in/shivam-gupta-bbb669226/ "Linkedin").
